@@ -1,0 +1,6 @@
+{
+  "name": "Non-Profit Donation Trend Analyzer",
+  "description": "Analyze donation trends, reconcile spousal donor registries, compute monthly slopes, and visualize giving trajectories with disconnected run charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

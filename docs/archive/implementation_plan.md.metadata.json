@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for Demo Mode featuring synthetic donation dataset, synthesized 34-donor registry with 5 reciprocal spouse pairs, dynamic 'End the Demo' control replacing 'Load Demo Data', conditional removal of 'Clear Donations', and complete state restoration to the pre-demo application state.",
+  "updatedAt": "2026-10-16T00:48:24.965638196Z",
+  "requestFeedback": true,
+  "userFacing": false
+}
